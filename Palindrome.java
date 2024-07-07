@@ -1,4 +1,4 @@
-public class Reverse {
+public class Palindrome {
     public static void main(String1[] args) {
         int n = 123;
         int last = 0;
