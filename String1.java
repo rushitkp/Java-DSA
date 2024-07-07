@@ -21,6 +21,6 @@ public class String1 {
             System.out.print(f.charAt(i) + " ");
         }
         System.out.println();
-        System.out.println(f.charAt(0)); 
+        System.out.println(f.charAt(0));            
     }
 }
