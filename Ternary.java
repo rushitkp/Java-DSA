@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Ternary {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         // int number = 10;
         // String s = (number % 2 == 0) ? "Even" : "Odd";
         // System.out.println(s);
@@ -13,7 +13,7 @@ public class Ternary {
         // Scanner sc = new Scanner(System.in);
         // System.out.print("Enter Marks:");
         // int marks = sc.nextInt();
-        String m = (marks >= 33) ? "Pass:" + marks : "Fail:" + marks;
+        String1 m = (marks >= 33) ? "Pass:" + marks : "Fail:" + marks;
         System.out.println(m);
     }
 }

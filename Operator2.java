@@ -1,5 +1,5 @@
 public class Operator2 {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         int x = 200, y = 50, z = 100;
 
         if (x > y && x > y) {

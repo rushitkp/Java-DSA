@@ -1,5 +1,5 @@
 public class Reverse {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         int n = 123;
         int last = 0;
         while (n > 0) {

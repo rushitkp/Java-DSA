@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 class Calc1 {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter English Marks: ");

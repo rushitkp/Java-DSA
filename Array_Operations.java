@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 class Array_Operations {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter Element:");
         int n = sc.nextInt();

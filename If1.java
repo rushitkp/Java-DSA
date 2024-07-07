@@ -1,5 +1,5 @@
 class If1 {
-    public static void main(String args[]) {
+    public static void main(String1 args[]) {
         int a = 20;
         int b = 10;
 

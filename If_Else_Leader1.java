@@ -1,5 +1,5 @@
 public class If_Else_Leader1 {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         int n = 320;
         if (n > 0) {
             System.out.println("Number is Positive");

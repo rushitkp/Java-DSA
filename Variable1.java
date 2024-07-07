@@ -7,7 +7,7 @@ public class Variable1 {
         ++a;  ++b;
     }
 
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         Variable1 v1 = new Variable1();
         v1.fun();
         v1.fun();

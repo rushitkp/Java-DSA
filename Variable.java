@@ -2,7 +2,7 @@ class Variable {
     static int b = 20; // Static Variable
     int c = 30; // Instance variable
 
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         // Variable v = new Variable();
         // int a = 10;
         // System.out.println("d:"+78);

@@ -1,5 +1,5 @@
 public class For_Patern4 {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         int n = 4;
         int m = 5;
 

@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class If_Else_Leader {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         Scanner r = new Scanner(System.in);
         int colour = r.nextInt();
 

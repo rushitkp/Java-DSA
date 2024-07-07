@@ -11,7 +11,7 @@ class student extends teacher {
 }
 
 class Abstract_Class {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         student s1 = new student();
         s1.listen();
     }

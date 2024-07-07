@@ -5,7 +5,7 @@ public class Multiply {
         return product;
     }
 
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         int a = 4;
         int b = 5;
         int product = mul(a, b);

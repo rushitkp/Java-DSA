@@ -10,7 +10,7 @@ public class Largest_Array {
         return largest;
     }
 
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         int num[] = { -2, 5, 0, 3, 34 };
         System.out.println("Largest Number:" + getLargest(num));
     }

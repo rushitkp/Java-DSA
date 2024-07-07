@@ -1,5 +1,5 @@
 class Hello {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         // System.out.println("Hello World");
         // System.out.println("* * * *");
         // System.out.println("* * * ");
@@ -16,7 +16,7 @@ class Hello {
         // b=50;
         b = 90;
         System.out.println(b);
-        String name = "RK";
+        String1 name = "RK";
         System.out.println(name);
 
     }

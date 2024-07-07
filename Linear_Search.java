@@ -25,7 +25,7 @@
 import java.util.Scanner;
 
 class Linear_Search {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         // int n, item;
         Scanner sc = new Scanner(System.in);
 

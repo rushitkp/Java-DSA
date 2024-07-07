@@ -11,7 +11,7 @@ class Deer {
 }
 
 public class Method_Overriding {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
         Deer d = new Deer();
         d.A();
     }

@@ -1,5 +1,5 @@
 public class Nested_If {
-    public static void main(String[] args) {
+    public static void main(String1[] args) {
 
         int a = 380, b = 208, c = 90;
 
