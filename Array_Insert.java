@@ -5,7 +5,7 @@ public class Array_Insert {
         int size;
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter Array Element:");
-        int n = sc.nextInt();
+        int n = sc.nextInt():
 
         int a[] = new int[size + 1];
         for (int i = 0; i < size; i++) {
