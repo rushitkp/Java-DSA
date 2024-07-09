@@ -20,7 +20,7 @@ public class String_Fun {
         System.out.println(str.charAt(2));
         System.out.println(str.indexOf(str));
         System.out.println(str.equals(str1));
-        System.out.println(str.replace('H','S'));
+        System.out.println(str.replace('H', 'S'));
 
     }
 }
