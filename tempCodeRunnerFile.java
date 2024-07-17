@@ -1,4 +1,2 @@
-
-    // float per() {
-    //     return per;
-    // }
+a;
+        // this.s = s;
