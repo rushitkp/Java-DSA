@@ -16,3 +16,4 @@ class Abstract_Class {
         s1.listen();
     }
 }
+
