@@ -2,14 +2,14 @@ class A {
     int a;
     String s;
 
-    // A() {
-    //     a = 20;
-    //     s = "Rk";
-    //     System.out.println(a);
-    //     System.out.println(s);
-    // }
+    A() {
+        a = 20;
+        s = "Rk";
+        System.out.println(a);
+        System.out.println(s);
+    }
 
-    void Show() {
+    void Show() {           
         System.out.println(a);
         System.out.println(s);
     }

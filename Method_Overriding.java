@@ -4,16 +4,16 @@ class Animal {
     }
 }
 
-class Deer {
+class Deer extends Animal {
+    @Override
     void A() {
         System.out.println("Deer");
     }
 }
 
 public class Method_Overriding {
-    public static void main(String1[] args) {
-        Deer d = new Deer();
+    public static void main(String[] args) {
+        Animal d = new Deer();
         d.A();
     }
-
 }

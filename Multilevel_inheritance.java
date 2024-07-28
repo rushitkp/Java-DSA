@@ -16,7 +16,7 @@ class home extends student {
     }
 }
 
-class Multilevel_inherit {
+class Multilevel_inheritance {
     public static void main(String[] args) {
         home h1 = new home();
         h1.teach();
