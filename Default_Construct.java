@@ -9,7 +9,7 @@ class A {
         System.out.println(s);
     }
 
-    void Show() {           
+    void Show() {
         System.out.println(a);
         System.out.println(s);
     }

@@ -16,7 +16,7 @@ class Hello {
         // b=50;
         b = 90;
         System.out.println(b);
-        String1 name = "RK";
+        String name = "RK";
         System.out.println(name);
 
     }
