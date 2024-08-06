@@ -2,12 +2,11 @@ import java.util.Scanner;
 
 interface user {
     void input();
-
     void output();
 }
 
 class emp implements user {
-    String name;
+    String name;               
     double sal;
 
     public void input() {
