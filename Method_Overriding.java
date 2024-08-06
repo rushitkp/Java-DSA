@@ -5,15 +5,17 @@ class Animal {
 }
 
 class Deer extends Animal {
-    @Override
+    // @Override
     void A() {
-        System.out.println("Deer");
+        System.out.println("Deer"); 
     }
 }
 
 public class Method_Overriding {
     public static void main(String[] args) {
-        Animal d = new Deer();
+        Deer d = new Deer();
         d.A();
+        Animal a = new Animal();
+        a.A();
     }
 }
