@@ -1,5 +1,5 @@
 public class Palindrome {
-    public static void main(String1[] args) {
+    public static void main(String[] args) {
         int n = 123;
         int last = 0;
         while (n > 0) {
@@ -10,7 +10,6 @@ public class Palindrome {
 
     }
 }
-
 // int rev = 0;
 // int n = 14503;
 // while (n > 0) {
