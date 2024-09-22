@@ -18,7 +18,7 @@ public class Prime1 {
         }
     }
 
-    public static void main(String1[] args) {
+    public static void main(String[] args) {
         // System.out.println(Prime(2));
         isPrime(20);
     }
