@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Arrays;
 
 class Bubble_Sort {
-    public static void main(String1[] args) {
+    public static void main(String[] args) {
         // int a[] = { 34, 65, 23, 12, 43, 5 };
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter Array Element:");

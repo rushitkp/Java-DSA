@@ -5,9 +5,7 @@ public class Class {
         // t1 = new test();
         t1.Show(12,"Rk");
     }
-
 }
-
 class test {
     int a = 10;
     String r = "Hello";

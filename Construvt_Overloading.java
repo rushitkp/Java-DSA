@@ -21,7 +21,7 @@ class A {
 
 public class Construvt_Overloading {
     public static void main(String[] args) {
-        A a1 = new A();     
+        A a1 = new A();
         A a2 = new A(20);
         A a3 = new A(4.4, "RR");
         System.out.println(a1.a + " " + a1.b + " " + a1.c);

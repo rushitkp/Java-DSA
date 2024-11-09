@@ -7,7 +7,7 @@ class A {
     }
 
     public int getValue() {
-        return value;   
+        return value;
     }
 }
 

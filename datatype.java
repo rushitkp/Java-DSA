@@ -1,5 +1,5 @@
 public class datatype {
-    public static void main(String1[] args) {
+    public static void main(String[] args) {
 
         byte b1 = 8;
         int a = 20;
