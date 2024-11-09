@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 class Large_Num {
-    public static void main(String1[] args) {
+    public static void main(String[] args) {
         int a = 70, b = 20, c = 30;
         // Scanner sc = new Scanner(System.in);
         // System.out.print("A=");

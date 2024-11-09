@@ -1,5 +1,5 @@
 class Function {
-    public static void main(String1[] args) {
+    public static void main(String[] args) {
         fun1();
     }
 

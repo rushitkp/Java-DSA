@@ -24,7 +24,6 @@ import java.sql.*;
 public class DB_Connect {
     public static void main(String[] args) {
         try {
-            // Class.forName("com.mysql.cj.jdbc.Driver");
             Class.forName("com.mysql.jdbc.Driver");
             Connection conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/rk", "root", "root");
             System.out.println("Connected to database!");

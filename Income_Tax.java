@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
 class Income_Tax {
-    public static void main(String1[] args) {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print    ("Enter Income:");
+        System.out.print("Enter Income:");
         int income = sc.nextInt();
         int tax;
 
@@ -17,4 +17,3 @@ class Income_Tax {
         System.out.println("Tax is: " + tax);
     }
 }
-
