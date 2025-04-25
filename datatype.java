@@ -8,6 +8,6 @@ public class datatype {
         char c = 'a';
         short n = 43;
         System.out.println(a);
-
+        System.out.println(c);
     }
 }

@@ -4,11 +4,8 @@ abstract class teacher {
 
 class student extends teacher {
 
-    void listen() {
-        System.out.println("Listen");
-        // System.out.println(x + y);
+        System.out.println(x + y);
     }
-}
 
 class Abstract_Class {
     public static void main(String[] args) {
