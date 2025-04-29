@@ -1,5 +1,4 @@
 class A {
-
     private int value;
 
     public void setValue(int x) {
@@ -15,6 +14,6 @@ class Encapulation {
     public static void main(String[] args) {
         A a1 = new A();
         a1.setValue(100);
-        System.out.println(a1.getValue());
+        System.out.println(a1.getValue()); 
     }
 }

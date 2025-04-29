@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Arrays;
 
 public class Array_Ascending {
-    public static void main(String1[] args) {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter Array Element:");
         int n = sc.nextInt();

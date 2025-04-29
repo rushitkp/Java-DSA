@@ -11,7 +11,7 @@ public class If_Else_Leader {
             System.out.println("White");
         } else if (colour == 3) {
             System.out.println("Green");
-        } else {
+        } else {    
             System.out.println("Invalid");
         }
     }
